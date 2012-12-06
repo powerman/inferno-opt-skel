@@ -1,0 +1,13 @@
+syntax: glob
+
+# debug
+*.sbl
+
+# tmp
+.*.swp
+
+
+syntax: regexp
+
+# build
+appl/.*\.dis$
